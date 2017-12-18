@@ -20,8 +20,8 @@
   "bugs": {
     "url": "https://github.com/GuillaumeBiton/store/issues"
   },
-  "devDependencies" : {
-		"coffeescript" : "lastest",
-	},
-  "homepage": "https://github.com/GuillaumeBiton/store#readme"
+  "homepage": "https://github.com/GuillaumeBiton/store#readme",
+  "devDependencies": {
+    "coffeescript": "^2.1.0"
+  }
 }
